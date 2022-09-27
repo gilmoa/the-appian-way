@@ -125,3 +125,37 @@ For the majority of career cities, six luxury palaces should be more than suffic
 Although marginally less space-efficient than my favourite block, the two do team together quite well. The big long line of statues down the side of this block can be used as part of the statue 'backbone' for my favourite block.
 
 Although not a loop block, this housing block still retains a hefty degree of walker control. There is only one road through the block, so all the walkers have to use it. The destination walkers for the entertainment venues provide perfect coverage to all the houses.
+
+## Gatehouseless Blocks
+
+While I prefer the additional control given by blocks using gatehouses, I recognise that there are occasions when gatehouseless blocks are needed. The most obvious example is the earlier missions in the 'Peaceful' career path, where gatehouses are not available. Some players prefer not to use gatehouses outside their natural position in city defences, so I thought a couple of gatehouseless blocks would be a useful addition to the site.
+
+### Non-Desert Maps
+
+The following design is suitable for use in in Central or Northern climates. In Northern provinces, the prefecture is not required, and may be replaced with a clinic, generating an extra tile of housing.
+**INSERT MAP INSERT MAP INSERT MAP**
+
+After the single loop blocks (see here), this G-motif is the most common recurring theme in my city blocks. I use this type of block when gatehouses are not available. The key points are:
+
+- **Prefecture and engineer placement**:
+These buildings are deliberately placed at the end of the 'G', so that a full length patrol will pass every other building, giving protection from damage and fire.
+- **Markets**:
+I use rather more markets than I do normally in these gatehouseless blocks. I would normally serve a much larger block with 3 market, or a marginally smaller one with two markets.
+- **Service Buildings**:
+There are more service buildings than I would use to evolve a similar number of housing tiles in a loop block. This is partly to boost my Culture rating, and partly because the more unpredictable walker patterns mean that coverage is not quite as efficient in this block. The layout of the service buildings is not rigid. I have encountered problems with, for example, temple coverage, in some orientations of this block. However, there is nothing that a quick reshuffle of buildings cannot fix.
+- **Target housing level**:
+This block is tested at small insulae. However, with a few modifications (producing the desert version below) it is possible to get stable large insulae.
+
+### Desert Maps
+
+The dried-out version of the above...
+**INSERT MAP INSERT MAP INSERT MAP**
+
+In addition to the comments above, there are a few new points to be made here:
+
+- **Fountain placement**:
+Most of the large insulae obtain fountain coverage on only one or two of their tiles. In order to accommodate more people at a lower housing level, start with two additional fountains at the two corners (where the statues are), and then remove them once you have evolved your housing to large insulae.
+- **Extra service buildings**:
+The extra market is to reduce the strain on the existing markets. Remember that they have to get pottery, furniture and oil in addition to food. The extra library in the middle of the block is only there for a culture rating boost. It may be replaced by any other culture building, or an oracle if you encounter desirability problems (I didn't).
+- **Target housing level**:
+Tested at, and rock-stable at, large insulae. Much less efficient at any lower level.
