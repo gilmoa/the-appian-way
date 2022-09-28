@@ -32,7 +32,8 @@ The greatest problem in controlling random walkers is their behaviour when they 
 The solution I have adopted to this problem is to remove the element of choice altogether. I limit the number of intersections on the route of my random walkers to the minimum possible. The vast majority of walkers in my cities never encounter an intersection, and where they do, their choice of path is never critical to the stability of the city.
 
 'How do you do this?', I hear you ask. Granted, it is impossible to build a city of any size with no intersections at all, but it is possible to disguise intersections. Random walkers will not pass through gatehouses, so you can, by careful placement of gatehouses, restrict the movement of random walkers. An example is shown in the diagram below, where the prefect will remain confined to the left hand loop and the engineer to the right hand loop:
-**INSERT LOOP INSERT LOOP INSERT LOOP**
+
+![Loop](loop.png)
 
 In this set-up, the bath house will be protected from collapse, the temple from fire, and the houses from both fire and collapse. The houses will also have access to both the bathhouse and the temple.
 

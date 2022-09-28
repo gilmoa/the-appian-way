@@ -48,7 +48,10 @@ The following represent some plebeian hosuing designs I have had success with. T
 ### Non-Desert Maps
 
 The following design is suitable for use in in Central or Northern climates. It will not work in the desert due to the reduced range of fountains on Desert provinces. In Northern provinces, the prefecture is not required, and may be replaced with a statue, or anything else for that matter!
-**INSERT MAP INSERT MAP INSERT MAP**
+
+![Plebeian Non Desert](plebeian_non_desert.png)
+
+[Legend](design.md)
 
 The Key points to note on this design are:
 
@@ -66,7 +69,8 @@ This block is designed to produce small insulae. However, with a few modificatio
 ### Desert Maps
 
 And now for a desert-adapted version of the above...
-**INSERT MAP INSERT MAP INSERT MAP**
+
+![Plebeian Desert](plebeian_desert.png)
 
 This block is, in most respects, similar to its non-desert cousin. The major differences are:
 
@@ -102,7 +106,8 @@ Palaces and villas need a lot of desirabilty. What this means is that your palac
 ### So what's a good layout?
 
 The layout I use most often was originally developed by Brugle, another regular at Caesar 3 Heaven. It looks a bit like this:
-**INSERT MAP INSERT MAP INSERT MAP**
+
+![Palace 1](palace1.png)
 
 This is modified slightly from the original design, and will produce 6 rock-stable luxury palaces (assuming a supply of food and goods) in any climate. There are several noteworthy points:
 
@@ -120,7 +125,8 @@ That big row of statues is an ideal place to hide a nice triumphal arch....
 ### What if I need more palaces?
 
 For the majority of career cities, six luxury palaces should be more than sufficient. However, you may encounter custom scenarios where more palaces are needed. If I decide I need more than six palaces, I tend to go the whole hog and build another six. Obviously I cannot use the same block (that would require another Hippodrome), so I tend to build my second block in a straight line, with the chariot maker at the far end. Something a bit like this:
-**INSERT MAP INSERT MAP INSERT MAP**
+
+![Palace 2](palace2.png)
 
 Although marginally less space-efficient than my favourite block, the two do team together quite well. The big long line of statues down the side of this block can be used as part of the statue 'backbone' for my favourite block.
 
@@ -133,7 +139,8 @@ While I prefer the additional control given by blocks using gatehouses, I recogn
 ### Non-Desert Maps
 
 The following design is suitable for use in in Central or Northern climates. In Northern provinces, the prefecture is not required, and may be replaced with a clinic, generating an extra tile of housing.
-**INSERT MAP INSERT MAP INSERT MAP**
+
+![Gateless Non Desert](gateless_non_desert.png)
 
 After the single loop blocks (see here), this G-motif is the most common recurring theme in my city blocks. I use this type of block when gatehouses are not available. The key points are:
 
@@ -149,7 +156,8 @@ This block is tested at small insulae. However, with a few modifications (produc
 ### Desert Maps
 
 The dried-out version of the above...
-**INSERT MAP INSERT MAP INSERT MAP**
+
+![Gateless Desert](gateless_desert.png)
 
 In addition to the comments above, there are a few new points to be made here:
 
